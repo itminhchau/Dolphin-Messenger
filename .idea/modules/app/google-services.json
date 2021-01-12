@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "95211126826",
+    "project_id": "kotlinmessenger-af23f",
+    "storage_bucket": "kotlinmessenger-af23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95211126826:android:a796afd5e4b80e3c064353",
+        "android_client_info": {
+          "package_name": "com.minhchaudm.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95211126826-01elkepgf05mr9bs410c31mve564t3bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minhchaudm.kotlinmessenger",
+            "certificate_hash": "47c10a471a2bbc828b021b3fdcbab70924f2d4a0"
+          }
+        },
+        {
+          "client_id": "95211126826-l5mfm94ofivb78vtmi6lpr3t8rerdk2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOrqqGmg_LcJTtfLiFjowsaIhsUO1Lxd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95211126826-l5mfm94ofivb78vtmi6lpr3t8rerdk2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

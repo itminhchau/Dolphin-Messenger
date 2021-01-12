@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KotlinMessenger</string>
+    <string name="user_name">User_Name</string>
+    <string name ="email_name">Email</string>
+    <string name = "pass_word">Pass_Word</string>
+    <string name="hello">Hello</string>
+    <string name="sign_up">Sign Up!</string>
+    <string name="email_address">Email Address</string>
+    <string name="i_accept_the_policy">I accept the policy</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dolpin">DOLPHIN</string>
+    <string name="messenger">MESSENGER</string>
+    <string name="it">It\'s easier sign up now</string>
+    <string name="continue_with_facebook">Continue With Facebook</string>
+    <string name="i_ll_use_email_or_phone">I\'ll use email or phone</string>
+    <string name="already_have_acount">Already have acount?</string>
+    <string name="login">Login</string>
+    <string name="chose_photo">Choose photo</string>
+</resources>

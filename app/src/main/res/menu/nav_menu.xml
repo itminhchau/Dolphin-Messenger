@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/nav_Messenger"
+        android:title="Messenger"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/nav_new_Messenger"
+        android:title="New"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/nav_signOut_Messenger"
+        android:title="SignOut"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
